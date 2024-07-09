@@ -12,3 +12,4 @@ C:\Users\carlo\OneDrive\Documents\CSharp-FCodeCamp\CsharpProjects\TestProject\ob
 C:\Users\carlo\OneDrive\Documents\CSharp-FCodeCamp\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.pdb
 C:\Users\carlo\OneDrive\Documents\CSharp-FCodeCamp\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
 C:\Users\carlo\OneDrive\Documents\CSharp-FCodeCamp\CsharpProjects\TestProject\obj\Debug\net8.0\ref\TestProject.dll
+C:\Users\carlo\OneDrive\Documents\CSharp-FCodeCamp\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.sourcelink.json
